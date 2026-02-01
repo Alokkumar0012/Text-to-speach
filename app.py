@@ -66,4 +66,5 @@ if st.button("🔊 Convert to Speech"):
 
 # Footer
 st.markdown("---")
-st.caption("Built with Python & Streamlit | No API Key Required")
+
+st.caption("Built with Python & Streamlit | Devloper : Alok kumar ")
